@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "spellcheck": false,
+  "smartIndentList": true,
+  "useTab": false,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showIndentGuide": false,
+  "attachmentFolderPath": "images"
+}
