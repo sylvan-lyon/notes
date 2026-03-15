@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/序列化.md",
+                "file": "go/错误处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "序列化"
+              "title": "错误处理"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go/序列化.md",
+                "file": "go/错误处理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 序列化"
+              "title": "Outline of 错误处理"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "189ba0f239b20116",
+  "active": "329cc3a72a32859d",
   "lastOpenFiles": [
-    "go/错误处理.md",
     "go/序列化.md",
+    "go/错误处理.md",
     "git/git add.md",
     "go",
     "images/error.py",
