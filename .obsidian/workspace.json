@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/42 接雨水.md",
-                "mode": "source",
+                "file": "算法/34 在排序数组中查找元素的第一个和最后一个位置.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42 接雨水"
+              "title": "34 在排序数组中查找元素的第一个和最后一个位置"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/42 接雨水.md",
+                "file": "算法/34 在排序数组中查找元素的第一个和最后一个位置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 42 接雨水"
+              "title": "Outline of 34 在排序数组中查找元素的第一个和最后一个位置"
             }
           },
           {
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +183,8 @@
   },
   "active": "ba03f16bd28ad8c9",
   "lastOpenFiles": [
-    "算法/34 在排序数组中查找元素的第一个和最后一个位置.md",
     "算法/42 接雨水.md",
+    "算法/34 在排序数组中查找元素的第一个和最后一个位置.md",
     "go/错误处理.md",
     "算法",
     "go/序列化.md",
