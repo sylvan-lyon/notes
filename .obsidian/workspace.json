@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/错误处理.md",
+                "file": "算法/42 接雨水.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "错误处理"
+              "title": "42 接雨水"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#前缀极值",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go/错误处理.md",
+                "file": "算法/42 接雨水.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 错误处理"
+              "title": "Outline of 42 接雨水"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,10 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "329cc3a72a32859d",
+  "active": "4c126081751085bc",
   "lastOpenFiles": [
-    "go/序列化.md",
     "go/错误处理.md",
+    "算法/42 接雨水.md",
+    "算法",
+    "go/序列化.md",
     "git/git add.md",
     "go",
     "images/error.py",
@@ -224,10 +226,8 @@
     "typora.io.md",
     "网络层.md",
     "链路层.md",
-    "计网概述.md",
     "子网情况.pdf",
     "应用层.pdf",
-    "网络层.pdf",
-    "链路层.pdf"
+    "网络层.pdf"
   ]
 }
